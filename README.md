@@ -14,9 +14,9 @@
 
 ## Tecnologías y Herramientas </b>
 
-<h3 align="center"><strong>Frontend:</strong></h3>
+<h3><strong>Frontend:</strong></h3>
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" style="margin: 0 10px;">
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" style="margin: 0 10px;">
   <img src="https://img.shields.io/badge/javascript-%23223399.svg?style=for-the-badge&logo=javascript&logoColor=%ff22ff" alt="JavaScript" style="margin: 0 10px;">
@@ -24,9 +24,9 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin: 0 10px;">
 </div>
 
-<h3 align="center"><strong>Backend:</strong></h3>
+<h3><strong>Backend:</strong></h3>
 
-<div align="center">
+<div>
 
 <img src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white' alt='C#'>
 <img src='https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white' alt='.net'>
@@ -36,29 +36,29 @@
 
 </div>
 
-<h3 align="center"><strong>Testing:</strong></h3>
-<div align="center">
+<h3><strong>Testing:</strong></h3>
+<div>
 	<img src='https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white' alt=''>
 	<img src="https://img.shields.io/badge/-Postman-%23F24E1E.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge">
 </div>
 
-<h3 align="center"><strong>Diseño:</strong></h3>
+<h3><strong>Diseño:</strong></h3>
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" style="margin: 0 10px;">
 </div>
 
-<h3 align="center"><strong>Entorno de Desarrolo:</strong></h3>
+<h3><strong>Entorno de Desarrolo:</strong></h3>
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" style="margin: 0 10px;">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin: 0 10px;">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 0 10px;">
 </div>
 
-<h3 align="center"><strong>Control de Versiones:</strong></h3>
+<h3><strong>Control de Versiones:</strong></h3>
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin: 0 10px;">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 0 10px;">
 </div>
