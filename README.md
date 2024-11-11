@@ -71,7 +71,6 @@
 
 <table>
   <tr>
-    <th>Frontend</th>
     <th>Backend</th>
   </tr>
   <tr>
