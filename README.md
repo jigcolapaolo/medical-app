@@ -72,6 +72,8 @@
 <table>
   <tr>
     <th>Backend</th>
+	<th>Automation Tester QA & PM</th>
+    <th>UX/UI Designer</th>
   </tr>
   <tr>
     <td align="center">
@@ -88,15 +90,7 @@
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
       </a>
     </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <th>Automation Tester QA & PM</th>
-    <th>UX/UI Designer</th>
-  </tr>
-  <tr>
-    <td align="center">
+	      <td align="center">
       <div align="center">
 	<img src="https://avatars.githubusercontent.com/u/130188881?v=4" width="120" alt="Thamairy Gonzalez"/>    
       </div>
@@ -126,3 +120,4 @@
     </td>
   </tr>
 </table>
+
