@@ -1,11 +1,4 @@
 <div align='center'>
-	<img width="350" src="https://github.com/user-attachments/assets/5e1b1ae4-5de1-4b30-9043-a8931fa54765"
-</div>
-
-<br>
-<br>
-
-<div align='center'>
   <a href="https://justina-io-front.vercel.app/" target="_blank">
     <img  src="https://img.shields.io/badge/DEPLOY_FRONT-5A4FCF?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
@@ -82,20 +75,6 @@
     <th>Backend</th>
   </tr>
   <tr>
-    <td align="center">
-      <div align="center">
-	<img src="https://avatars.githubusercontent.com/u/72477825?v=4" width="120" alt="Mateo Rosero"/>    
-      </div>
-      <b>Mateo Rosero</b>
-      <br>
-      <br>
-      <a href="https://www.linkedin.com/in/mateok13/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-      </a>
-      <a href="https://github.com/mateok13" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
-      </a>
-    </td>
     <td align="center">
       <div align="center">
 	<img src="https://avatars.githubusercontent.com/u/145474462?v=4" width="120" alt="Juan Colapaolo"/>    
